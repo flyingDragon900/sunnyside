@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap');
+// Layout
+
+// The designs were created to the following widths:
+
+$Mobile: 375px;
+$Desktop: 1440px;
+
+// Colors
+
+// Primary
+
+$SoftRed: hsl(7, 99%, 70%);
+$Yellow: hsl(51, 100%, 49%);
+$DarkDesaturated: hsl(167, 40%, 24%);
+$DarkBlue: hsl(198, 62%, 26%);
+$DarkModerateCyan: hsl(168, 34%, 41%);
+
+// Neutral
+
+$VeryDarkDesaturatedBlue: hsl(212, 27%, 19%);
+$VeryDarkGrayishBlue: hsl(213, 9%, 89%);
+$DarkGrayishBlue: hsl(232, 10%, 55%);
+$GrayishBlue: hsl(210, 4%, 67%);
+$White: hsl(0, 0%, 100%);
+$pink:rgba(255, 192, 203, 0.312);
+// Typography
+
+// Body Copy
+
+$FontSize: 18px;
+
+// Font
+$Barlow: 'Barlow', sans-serif;
+$Fraunces: 'Fraunces', serif;
